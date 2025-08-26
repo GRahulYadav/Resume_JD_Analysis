@@ -16,5 +16,5 @@
 ## 🎥 Demo
 
 👉 [Watch the demo video](https://drive.google.com/file/d/1gY8gj39ew8VB0RPqOVQk_LuZ0StLjo3d/view?usp=sharing)
-![Demo Preview](![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/56ff217a-d78a-45c1-a0f0-78539cd38a46)
-)
+![Demo Preview](![Untitled video - Made with Clipchamp])(https://github.com/user-attachments/assets/56ff217a-d78a-45c1-a0f0-78539cd38a46)
+
